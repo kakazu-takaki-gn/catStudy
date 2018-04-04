@@ -1,3 +1,5 @@
+package kkz.phase1
+
 trait Printable[A] {
   def format(v: A): String
 }

@@ -1,4 +1,4 @@
-final case class Cat(name: String, age: Int, color: String)
+package kkz.phase1
 
 object CatKkz {
   import PrintableInstances._
